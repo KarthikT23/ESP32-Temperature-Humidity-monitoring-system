@@ -49,7 +49,7 @@ Connect the Vcc pin of the DHT11 to 3.3V pin of ESP32. Connect the GND pin of DH
 
 3) We set the font size for the heading (h2), paragraph (p) and the units(.units) of the readings. All of the previous tags should go between the <head> and </head> tags. These tags are used to include content that is not directly visible to the user, like the <meta> , the <link> tags, and the styles.
 
-4) Inside the '<body></body>' tags is where we add the web page content. The '<h2></h2>' tags add a heading to the web page. In this case, the 'ESP32 DHT server' text, but you can add any other text.
+4) Inside the '<body></body>' tags is where we add the web page content. The '<h2></h2>" tags add a heading to the web page. In this case, the 'ESP32 DHT server' text, but you can add any other text.
 
 5) Then, there are two paragraphs; one to display the temperature and the other to display the humidity. The paragraphs are delimited by the '<p> and </p>' tags.
 
