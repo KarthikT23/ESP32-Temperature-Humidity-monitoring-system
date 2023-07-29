@@ -13,6 +13,7 @@ e) Jumper wires
 
 # Software Components
 a) Arduino IDE
+
 b) Required libraries: Wi-Fi, ESPAsyncWebServer, ESPAsyncTCP, Adafruit_Sensor and DHT
 
 # ESP32
