@@ -67,6 +67,40 @@ Connect the Vcc pin of the DHT11 to 3.3V pin of ESP32. Connect the GND pin of DH
 6) The same process is repeated for the humidity. Lastly, we can start the server.
 Because this is an asynchronous web server, we don’t need to write anything in the loop().
 
+# Results
+![image](https://github.com/KarthikT23/ESP32-Temperature-Humidity-monitoring-system/assets/119528503/5ae7fbdf-77a1-466e-b1d6-c6800bd54627)
+![image](https://github.com/KarthikT23/ESP32-Temperature-Humidity-monitoring-system/assets/119528503/90bc8b3e-11f2-4b43-b940-0a3f8f672668)
+![image](https://github.com/KarthikT23/ESP32-Temperature-Humidity-monitoring-system/assets/119528503/def11dbf-50d3-438f-a5df-bfe37259e873)
+
+
+# References
+[1] https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-web-server-arduino-ide/
+
+[2] https://www.electronicshub.org/dht11-humidity-sensor-arduino/
+
+[3] https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
+
+[4] https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-sensor-arduino-ide/
+
+[5] https://randomnerdtutorials.com/esp32-async-web-server-espasyncwebserver-library/
+
+[6] https://www.elprocus.com/a-brief-on-dht11-sensor/
+
+[7] Srivastava, Deeksha, Awanish Kesarwani, and Shivani Dubey. "Measurement of Temperature and Humidity by using Arduino Tool and DHT11." International Research Journal of Engineering and Technology (IRJET) 5.12 (2018): 876-878.
+
+[8] Gay, W. (2018). DHT11 sensor. In Advanced Raspberry Pi (pp. 399-418). Apress, Berkeley, CA.
+
+[9] https://www.researchdive.com/blog/the-working-of-humidity-sensor-and-its-applications-in-various-industries
+
+[10] https://thesai.org/Downloads/Volume10No9/Paper_66-IoT_based_Temperature_and_Humidity_Controlling.pdf
+
+[11] https://circuitdigest.com/microcontroller-projects/interfacing-dht11-sensor-with-arduino
+
+[12] https://hackaday.io/projects?tag=dht11
+
+[13] https://www.elithecomputerguy.com/2020/05/arduino-projects-garden-sensor-suite-dht11-ds3231-light-moisture-i2c-lcd/
+
+
 
 
 
