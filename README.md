@@ -43,7 +43,7 @@ Connect the Vcc pin of the DHT11 to 3.3V pin of ESP32. Connect the GND pin of DH
 3) Getting sensor readings is as simple as using the readTemperature() and readHumidity() methods on the dht object. We also have a condition that returns two dashes (–) in case the sensor fails to get the readings. By default, we’re reading the temperature in Celsius degrees.
 
 # Building the Webpage
-1) All the HTML text with styles included is stored in the index_html variable. The <meta> tag makes your web page responsive in any browser. The <link> tag is needed to load the icons from the fontawesome website.
+1) All the HTML text with styles included is stored in the index_html variable. The "<meta>" tag makes your web page responsive in any browser. The <link> tag is needed to load the icons from the fontawesome website.
 
 2) Between the <style></style> tags, we add some CSS to style the web page. Basically, we’re setting the HTML page to display the text with Arial font in block without margin, and aligned at the center.
 
